@@ -3,6 +3,15 @@ Arknights [RIME](https://rime.im) dictionary
 
 明日方舟[RIME](https://rime.im)词库
 
+## 开发状态
+目前仅开发了干员名称。未来计划支持：
+- SS、危机合约等活动的名称；
+- 肉鸽地图；
+- 游戏术语；
+- 社区常用词。
+
+如果您需要更完整的词库，参见[这篇少数派文章](https://sspai.com/post/90068)。
+
 ## 使用方法
 本词库以繁体写成，以配合RIME使用的[OpenCC](https://github.com/byVoid/OpenCC)的设定。因此需要挂载到使用繁体词库的输入方案中。
 

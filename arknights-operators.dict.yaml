@@ -1,0 +1,589 @@
+# Rime dictionary
+# encoding: utf-8
+
+---
+name: arknights-operators
+version: "0.1"
+sort: by_weight
+use_preset_vocabulary: true
+...
+推進之王
+推進之王	tui wang
+風笛
+嵯峨
+琴柳
+焰尾
+焰尾	suo na
+焰尾	song shu
+焰尾	ba shu duan
+伺夜	ci ye
+伺夜	si ye
+伊內絲
+繆爾賽思
+繆爾賽思	miu miu
+忍冬
+忍冬	ling lan ma
+凜冬
+德克薩斯
+德克薩斯	de gou
+德克薩斯	texas
+格拉尼
+葦草
+極境
+賈維
+野鬃
+夜半
+曉歌
+謎圖
+青枳
+萬頃
+紅隼
+歷陣銳槍芬
+歷陣銳槍芬	li zhen rui qiang
+歷陣銳槍芬	fen
+歷陣銳槍芬	yi ge fen
+渡橋
+齊爾查克
+齊爾查克	qiao hai shu
+齊爾查克	qi er
+訊使
+清道夫
+紅豆
+桃金娘
+桃金娘	tao zi
+豆苗
+#芬
+香草
+翎羽
+夜刀
+銀灰
+斯卡蒂
+斯卡蒂	lan di
+斯卡蒂	xian di
+斯卡蒂	di di
+#陳
+陳	jian chen
+劍陳	jian chen
+赫拉格
+赫拉格	lao ye zi
+#煌
+煌	gu zhu huang
+棘刺
+史爾特爾
+史爾特爾	si er
+史爾特爾	nai nai
+#山
+帕拉斯
+耀騎士臨光
+耀騎士臨光	yao guang
+耀騎士臨光	yao qi shi
+耀騎士臨光	lin guang
+艾麗妮
+艾麗妮	xiao niao
+百煉嘉維爾
+百煉嘉維爾	bai lian
+百煉嘉維爾	bai jia
+百煉嘉維爾	jia bai lian
+百煉嘉維爾	jia wei er
+瑪恩納
+瑪恩納	shu shu
+瑪恩納	lao ma
+重岳	chong yue
+重岳	da ge
+仇白	qiu bai
+聖約送葬人
+聖約送葬人	sheng yue
+聖約送葬人	song zang ren
+聖約送葬人	sheng zang
+赫德雷
+止頌
+止頌	wu ye
+薇薇安娜
+薇薇安娜	vvan
+鐧
+鐧	hei qi shi
+鐧	jian zi hao
+左樂	zuo le
+烏爾比安
+烏爾比安	san dui
+佩佩
+維娜·維多利亞	wei na wei duo li ya
+維娜·維多利亞	wang wei na
+維娜·維多利亞	wei na
+維娜·維多利亞	tui jin zhi wang
+芙蘭卡
+因陀羅
+拉普蘭德
+拉普蘭德	la gou
+幽靈鯊
+幽靈鯊	sha sha
+暴行
+詩懷雅
+星極
+炎客
+布洛卡
+柏喙	bai hui
+鑄鐵
+斷崖
+燧石
+鞭刃
+戰車
+戰車	tachanka
+赤冬
+龍舌蘭
+羽毛筆
+海沫
+達格達
+鐸鈴
+火龍S黑角	huo long
+火龍S黑角	huo long hei jiao
+火龍S黑角	huo longs hei jiao
+火龍S黑角	hei jiao
+火龍S黑角	yi ge hei jiao
+摩根
+蒼苔
+烈夏
+導火索
+導火索	fuze
+醫生
+醫生	doc
+奧達
+萊歐斯
+杜賓
+纏丸
+霜葉
+艾絲黛爾
+艾絲黛爾	xiao e yu
+慕斯
+獵蜂
+宴
+斷罪者
+刻刀
+芳汀
+傑克
+羅小黑
+石英
+休謨斯
+玫蘭莎
+月見夜
+泡普卡
+Castle-3	castle
+Castle-3	jin wei xiao che
+Castle-3	jin wei che
+星熊
+星熊	gui jie
+塞雷婭
+塞雷婭	sai die
+塞雷婭	sai ma
+#年
+森蚺
+瑕光
+瑕光	ma li ya
+泥岩
+號角
+斥罪
+滌火潔西卡
+滌火潔西卡	di huo
+滌火潔西卡	di jie
+滌火潔西卡	jie xi ka
+滌火傑西卡
+滌火傑西卡	di huo
+滌火傑西卡	di jie
+滌火傑西卡	jie xi ka
+#######################
+#黍
+黍	shu shu
+黍	shu jie
+臨光
+雷蛇
+可頌
+火神
+拜松
+#
+吽	kou niu
+石棉
+閃擊
+閃擊	shan dun
+閃擊	blitz
+暴雨
+灰毫
+極光
+暮落
+車爾尼	che er ni
+火哨
+洋灰
+深律
+深巡
+森西
+菲萊
+角峰
+蛇屠箱
+蛇屠箱	gui gui
+古米
+堅雷
+泡泡
+露托
+卡緹
+米格魯
+斑點
+黑角
+Friston-3	friston
+Friston-3	fu li si dun
+Friston-3	zhong zhuang xiao che
+Friston-3	zhong zhuang che
+能天使
+#黑
+#W
+W	eew
+早露
+迷迭香
+迷迭香	xiang xiang
+空弦
+灰燼
+灰燼	ash
+假日威龍陳
+假日威龍陳	shui chen
+假日威龍陳	chen
+假日威龍陳	jia ri wei long
+遠牙
+菲亞梅塔
+菲亞梅塔	fei ya
+鴻雪
+提豐
+提豐	di feng
+萊伊
+維什戴爾	wei shi dai er
+維什戴爾	ew
+娜仁圖亞
+娜仁圖亞	da yi
+藍毒
+白金
+隕星
+普羅旺斯
+守林人
+送葬人
+灰喉
+懾砂
+安哲拉
+四月
+奧斯塔
+熔泉
+寒芒克洛絲
+寒芒克洛絲	han ke
+寒芒克洛絲	yi ke
+寒芒克洛絲	han mang
+寒芒克洛絲	ke luo si
+寒芒克洛絲	kkdy
+埃拉托
+承曦格雷伊
+承曦格雷伊	dian gou
+承曦格雷伊	xiao dian gou
+承曦格雷伊	cheng xi
+承曦格雷伊	ge lei yi
+子月
+截雲
+玫拉
+隱現
+冰釀
+潔西卡
+傑西卡
+流星
+白雪
+紅雲
+#梅
+安比爾
+酸糖
+松果
+鉛踝
+躍躍
+克洛絲
+克洛絲	kkdy
+安德切爾
+空爆
+巡林者
+正義騎士號
+正義騎士號	ju ji xiao che
+泰拉大陸調查團
+泰拉大陸調查團	mao che
+伊芙利特
+伊芙利特	xiao huo long
+艾雅法拉
+艾雅法拉	xiao yang
+莫斯提馬
+莫斯提馬	xiao mo
+刻俄柏
+刻俄柏	ke er bai
+刻俄柏	xiao ke
+刻俄柏	fei ke
+#夕
+夕	xi bao
+異客
+卡涅利安
+卡涅利安	ka jie
+澄閃
+澄閃	zhu zhu
+黑鍵
+#林
+林	lin yu xia
+霍爾海雅
+霍爾海雅	fei she
+邏各斯
+邏各斯	logos
+妮芙
+瑪露西爾
+瑪露西爾	ma lu
+荒蕪拉普蘭德
+荒蕪拉普蘭德	huang wu
+荒蕪拉普蘭德	wu la
+荒蕪拉普蘭德	yi la
+荒蕪拉普蘭德	la gou
+荒蕪拉普蘭德	la pu lan de
+阿米婭
+阿米婭	tu tu
+阿米婭	shu tu
+阿米婭（術師）	shu tu
+阿米婭（近衛）	jian tu
+阿米婭（醫療）	nai tu
+術兔	shu tu
+劍兔	jian tu
+奶兔	nai tu
+天火
+夜魔
+驚蟄
+苦艾
+萊恩哈特
+蜜蠟
+特米米
+薄綠
+愛麗絲
+炎獄炎熔
+炎獄炎熔	yan rong
+炎獄炎熔	yan yu
+蝕清
+耶拉
+洛洛
+星源
+至簡
+雪絨
+和弦
+寒檀
+戴菲恩
+折光
+溫米
+阿羅瑪
+特克諾
+夜煙
+遠山
+格雷伊
+格雷伊	dian gou
+格雷伊	xiao dian gou
+卡達
+深靛
+布丁
+炎熔
+史都華德
+史都華德	de hua
+杜林
+12F	tai zi
+12F	shi erf
+閃靈
+夜鶯
+凱爾希
+凱爾希	kai mao
+凱爾希	tai hou
+凱爾希	qian qi
+凱爾希	lao nv ren
+流明
+焰影葦草
+焰影葦草	yan ying
+焰影葦草	yan wei
+焰影葦草	yi wei
+焰影葦草	wei cao
+純燼艾雅法拉
+純燼艾雅法拉	chun jin
+純燼艾雅法拉	chun ai
+純燼艾雅法拉	ai ya fa la
+白面鴞
+白面鴞	bai mian
+白面鴞	bai gu gu
+赫默
+華法琳
+華法琳	ffling
+華法琳	fflin
+錫蘭
+微風
+亞葉
+絮雨
+圖耶
+桑葚
+蜜莓
+濯塵芙蓉
+濯塵芙蓉	zhuo chen
+濯塵芙蓉	fu rong
+明椒
+刺玫
+哈洛德
+莎草	suo cao
+瑰鹽
+末藥
+嘉維爾
+調香師
+蘇蘇洛
+清流
+褐果
+芙蓉
+安賽爾
+Lancet-2	lancet
+Lancet-2	liu ye dao
+Lancet-2	yi liao che
+Lancet-2	yi liao xiao che
+安潔莉娜
+安潔莉娜	an jie
+安潔莉娜	jie ge
+麥哲倫
+麥哲倫	mai mai
+鈴蘭
+濁心斯卡蒂
+濁心斯卡蒂	zhuo xin
+濁心斯卡蒂	zhuo di
+濁心斯卡蒂	hong di
+濁心斯卡蒂	si ka di
+靈知
+#令
+令	ling jie
+白鐵
+淬羽赫默
+淬羽赫默	cui yu
+淬羽赫默	he mo
+塑心
+塑心	tu tu
+塑心	a er tu luo
+魔王
+魔王	te lei xi ya
+魔王	dian xia
+梅爾
+初雪
+真理
+#空
+空	so ra
+格勞克斯
+巫戀
+月禾
+稀音
+九色鹿
+夏櫟
+海蒂
+掠風
+但書
+凜視
+小滿
+海霓
+衡沙
+凱薩琳
+凱薩琳	bai tie nai nai
+凱薩琳	nai nai
+波卜	bo bu
+深海色
+地靈
+波登可
+羅比菈塔
+梓蘭
+U-Official	zhubou
+U-Official	you li ka
+U-Official	uofficial
+PhonoR-0	wu yi xiao che
+PhonoR-0	wu yi che
+PhonoR-0	logos de ma ma
+PhonoR-0	logos ma ma
+#阿
+傀影
+溫蒂
+溫蒂	di di
+歌蕾蒂婭
+歌蕾蒂婭	ge di
+歌蕾蒂婭	er dui
+水月
+老鯉
+歸溟幽靈鯊
+歸溟幽靈鯊	gui ming
+歸溟幽靈鯊	gui sha
+歸溟幽靈鯊	you ling sha
+歸溟幽靈鯊	sha sha
+多蘿西
+緘默德克薩斯
+緘默德克薩斯	jian mo
+緘默德克薩斯	yi de
+緘默德克薩斯	de ke sa si
+緘默德克薩斯	de gou
+緘默德克薩斯	texas
+麒麟R夜刀	qi lin
+麒麟R夜刀	qi lin ye dao
+麒麟R夜刀	qi linr ye dao
+麒麟R夜刀	qi linx ye dao
+麒麟R夜刀	yi dao
+麒麟R夜刀	ye dao
+琳琅詩懷雅
+琳琅詩懷雅	lin lang
+琳琅詩懷雅	shi huai ya
+艾拉
+艾拉	ela
+阿斯卡綸	a si ka lun
+弒君者
+弒君者	jun jun
+弒君者	liu ye
+引星棘刺
+引星棘刺	yin ji
+引星棘刺	xing ji
+引星棘刺	ji ci
+#紅
+崖心
+獅蠍
+食鐵獸
+食鐵獸	xiong mao
+槐琥
+雪雉
+羅賓
+卡夫卡
+烏有
+霜華
+霜華	frost
+貝娜
+綺良
+見行者
+風丸
+空構
+杏仁
+雙月
+雙月	lana
+錫人
+裁度	cai du
+裁度	cai duo
+礫
+礫	shi le
+暗索
+阿消
+伊桑
+#孑
+孑	jie ge
+維荻
+雲跡
+THRM-EX	thrmex
+THRM-EX	thermal ex
+THRM-EX	zi bao xiao che
+#2025.1
+餘	yao di
+餘	chu zi
+燭煌	gu zhu huang
+燭煌	zhu huang
+尋瀾
+#2025.2
+隱德來希
+隱德來希	shi ming zi
+諾威爾
+#2025.3
+死芒
+死芒	ai bu la na
+死芒	xiang jiao jie
+死芒	ling xiu
+鉬鉛
+水燈心

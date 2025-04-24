@@ -106,6 +106,7 @@ use_preset_vocabulary: true
 左樂	zuo le
 烏爾比安
 烏爾比安	san dui
+烏爾比安	bing gan
 佩佩
 維娜·維多利亞	wei na wei duo li ya
 維娜·維多利亞	wang wei na
@@ -127,6 +128,8 @@ use_preset_vocabulary: true
 斷崖
 燧石
 鞭刃
+鞭刃	gu ma
+鞭刃	zuo fei ya
 戰車
 戰車	tachanka
 赤冬
@@ -137,7 +140,7 @@ use_preset_vocabulary: true
 鐸鈴
 火龍S黑角	huo long
 火龍S黑角	huo long hei jiao
-火龍S黑角	huo longs hei jiao
+火龍S黑角	huolongs hei jiao
 火龍S黑角	hei jiao
 火龍S黑角	yi ge hei jiao
 摩根
@@ -156,7 +159,7 @@ use_preset_vocabulary: true
 艾絲黛爾	xiao e yu
 慕斯
 獵蜂
-宴
+#宴
 斷罪者
 刻刀
 芳汀
@@ -245,6 +248,7 @@ W	eew
 假日威龍陳	shui chen
 假日威龍陳	chen
 假日威龍陳	jia ri wei long
+水陳	shui chen
 遠牙
 菲亞梅塔
 菲亞梅塔	fei ya
@@ -302,9 +306,11 @@ W	eew
 空爆
 巡林者
 正義騎士號
+正義騎士號	ju ji che
 正義騎士號	ju ji xiao che
 泰拉大陸調查團
 泰拉大陸調查團	mao che
+貓車	mao che
 伊芙利特
 伊芙利特	xiao huo long
 艾雅法拉
@@ -342,8 +348,11 @@ W	eew
 阿米婭	tu tu
 阿米婭	shu tu
 阿米婭（術師）	shu tu
+阿米婭(術師）	shu tu
 阿米婭（近衛）	jian tu
+阿米婭(近衛)	jian tu
 阿米婭（醫療）	nai tu
+阿米婭(醫療)	nai tu
 術兔	shu tu
 劍兔	jian tu
 奶兔	nai tu
@@ -385,11 +394,13 @@ W	eew
 史都華德	de hua
 杜林
 12F	tai zi
-12F	shi erf
+12F	shi er
+12F	shierf
 閃靈
 夜鶯
 凱爾希
 凱爾希	kai mao
+凱爾希	lao mao
 凱爾希	tai hou
 凱爾希	qian qi
 凱爾希	lao nv ren
@@ -403,6 +414,7 @@ W	eew
 純燼艾雅法拉	chun jin
 純燼艾雅法拉	chun ai
 純燼艾雅法拉	ai ya fa la
+純燼艾雅法拉	xiao yang
 白面鴞
 白面鴞	bai mian
 白面鴞	bai gu gu
@@ -465,7 +477,7 @@ Lancet-2	yi liao xiao che
 初雪
 真理
 #空
-空	so ra
+空	sora
 格勞克斯
 巫戀
 月禾
@@ -517,9 +529,11 @@ PhonoR-0	logos ma ma
 緘默德克薩斯	de gou
 緘默德克薩斯	texas
 麒麟R夜刀	qi lin
+麒麟R夜刀	qilinr
+麒麟R夜刀	qilinx
 麒麟R夜刀	qi lin ye dao
-麒麟R夜刀	qi linr ye dao
-麒麟R夜刀	qi linx ye dao
+麒麟R夜刀	qilinr ye dao
+麒麟R夜刀	qilinx ye dao
 麒麟R夜刀	yi dao
 麒麟R夜刀	ye dao
 琳琅詩懷雅
@@ -568,7 +582,8 @@ PhonoR-0	logos ma ma
 維荻
 雲跡
 THRM-EX	thrmex
-THRM-EX	thermal ex
+THRM-EX	thermalex
+THRM-EX	zi bao che
 THRM-EX	zi bao xiao che
 #2025.1
 餘	yao di
@@ -583,7 +598,32 @@ THRM-EX	zi bao xiao che
 #2025.3
 死芒
 死芒	ai bu la na
+死芒	ai xiang jiao
 死芒	xiang jiao jie
 死芒	ling xiu
 鉬鉛
 水燈心
+#2025.4
+Mon3tr	monster
+Mon3tr	monsan
+Mon3tr	monthree
+Mon3tr	monthird  
+Mon3tr	monsanter
+Mon3tr	monthreeter
+Mon3tr	monthirdter
+Mon3tr	monsantr
+Mon3tr	monthreetr
+Mon3tr	monthirdtr
+Mon3tr	monster san
+Mon3tr	monster three
+Mon3tr	monster third
+Mon3tr	msan
+Mon3tr	mthree
+Mon3tr	mthird
+Mon3tr	mo san
+Mon3tr	mo three
+Mon3tr	mo third
+Mon3tr	mang si ta
+Mon3tr	mang si te
+阿蘭娜
+騁風

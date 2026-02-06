@@ -49,3 +49,6 @@ import_tables
 `arknights`开头的即是本仓库的词库。如果不需要哪个词库，删掉那一行。
 
 4. 重新部署即可。
+
+## 数据来源
+[PRTS.wiki](https://prts.wiki)以及官方信息

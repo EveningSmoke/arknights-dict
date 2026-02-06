@@ -4,9 +4,12 @@ Arknights [RIME](https://rime.im) dictionary
 明日方舟[RIME](https://rime.im)词库
 
 ## 开发状态
-目前仅开发了干员名称。未来计划支持：
+目前仅开发了
+- 干员名称（`arknights-operators`）
+- 肉鸽地图名称（`arknights-is-level-names`）
+
+未来计划支持：
 - SS、危机合约等活动的名称；
-- 肉鸽地图；
 - 游戏术语；
 - 社区常用词。
 
@@ -29,7 +32,7 @@ patch:
   translator/dictionary: root_pinyin
 ```
 
-在同目录下建立名为`root_pinyin.dict.yaml`的文件，并写入以下内容：
+3. 在同目录下建立名为`root_pinyin.dict.yaml`的文件，并写入以下内容：
 
 ```
 ---
@@ -39,7 +42,10 @@ sort: by_weight
 use_preset_vocabulary: true
 import_tables
   - arknights-operators
+  - arknights-is-level-names
   - luna_pinyin
 ...
 ```
-3. 重新部署即可。
+`arknights`开头的即是本仓库的词库。如果不需要哪个词库，删掉那一行。
+
+4. 重新部署即可。

@@ -3,13 +3,13 @@
 
 ---
 name: arknights-is-level-names
-version: "0.1"
+version: "0.2.1"
 sort: by_weight
 use_preset_vocabulary: true
 ...
-## 刻俄柏的灰覃祕境
-刻俄柏的灰覃祕境
-刻俄柏的灰覃祕境	xiao ke rou ge
+## 刻俄柏的灰覃迷境
+刻俄柏的灰覃迷境
+刻俄柏的灰覃迷境	xiao ke rou ge
 小刻肉鴿
 路邊劫匪
 獸群
@@ -417,4 +417,5 @@ use_preset_vocabulary: true
 錄憶
 ## 特殊
 ro4_b_9	rosibjiu
+
 (ISW-DF ???)	rosibjiu

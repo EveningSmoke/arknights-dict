@@ -19,9 +19,13 @@ Arknights [RIME](https://rime.im) dictionary
    - Linux参考[https://sspai.com/post/90068](https://sspai.com/post/90068)
    - Windows（小狼毫）默认位于`C:\Users\你的用户名\AppData\Roaming\Rime`（即`%APPDATA%\Rime`）。
    - macOS（鼠须管）位于`~/Library/Rime`。
-2. 根据[RIME的定制指南](https://github.com/rime/home/wiki/CustomizationGuide)，为您需要的输入方案打「补靪」。（假设你使用的输入法为朙月拼音`luna_pinyin`，则在`Rime`文件夹下新增`luna_pinyin.custom.yaml`，然后输入以下内容。若已有该文件，则在末尾补充以下内容，但删掉`patch:`一行）
+2. 根据[RIME的定制指南](https://github.com/rime/home/wiki/CustomizationGuide)，为您需要的输入方案打「补靪」。（假设你使用的输入法为朙月拼音`luna_pinyin`，则在`Rime`文件夹下新增`luna_pinyin.custom.yaml`，然后输入以下内容。
 ```
 patch:
+  translator/dictionary: root_pinyin
+```
+若已有该文件，则只需要补充一行（空白缩进记得留）
+```
   translator/dictionary: root_pinyin
 ```
 

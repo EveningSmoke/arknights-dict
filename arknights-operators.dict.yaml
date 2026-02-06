@@ -9,22 +9,28 @@ use_preset_vocabulary: true
 ...
 推進之王
 推進之王	tui wang
+推進之王	wang wei na
+推進之王	wei na
 風笛
 嵯峨
+嵯峨	xiao seng
 琴柳
+琴柳	qi liu
 焰尾
 焰尾	suo na
 焰尾	song shu
 焰尾	ba shu duan
 伺夜	ci ye
 伺夜	si ye
+#上面這個siye是四爺的意思，《明日方舟》玩家的語文學到狗肚子裏去了（包括我）
 伊內絲
+伊內絲	tu dou
 繆爾賽思
 繆爾賽思	miu miu
 忍冬
 忍冬	ling lan ma
 凜冬
-德克薩斯
+德克薩斯	de ke sa si	999999
 德克薩斯	de gou
 德克薩斯	texas
 格拉尼
@@ -66,14 +72,16 @@ use_preset_vocabulary: true
 劍陳	jian chen
 赫拉格
 赫拉格	lao ye zi
-#煌
+煌	huang	999999
 煌	gu zhu huang
 棘刺
+棘刺	ji chi
 史爾特爾
 史爾特爾	si er
 史爾特爾	nai nai
 #山
 帕拉斯
+帕拉斯	niu niu
 耀騎士臨光
 耀騎士臨光	yao guang
 耀騎士臨光	yao qi shi
@@ -95,12 +103,13 @@ use_preset_vocabulary: true
 聖約送葬人	sheng yue
 聖約送葬人	song zang ren
 聖約送葬人	sheng zang
+聖約送葬人	yao zi ge
 赫德雷
 止頌
 止頌	wu ye
 薇薇安娜
 薇薇安娜	vvan
-鐧
+鐧	jian	999999
 鐧	hei qi shi
 鐧	jian zi hao
 左樂	zuo le
@@ -112,6 +121,8 @@ use_preset_vocabulary: true
 維娜·維多利亞	wang wei na
 維娜·維多利亞	wei na
 維娜·維多利亞	tui jin zhi wang
+維娜·維多利亞	tui wang
+維娜·維多利亞	yi tui
 芙蘭卡
 因陀羅
 拉普蘭德
@@ -159,12 +170,13 @@ use_preset_vocabulary: true
 艾絲黛爾	xiao e yu
 慕斯
 獵蜂
-#宴
+宴	yan	9999999
 斷罪者
 刻刀
 芳汀
 傑克
 羅小黑
+羅小黑	xiao hei
 石英
 休謨斯
 玫蘭莎
@@ -175,6 +187,7 @@ Castle-3	jin wei xiao che
 Castle-3	jin wei che
 星熊
 星熊	gui jie
+星熊	xiong da
 塞雷婭
 塞雷婭	sai die
 塞雷婭	sai ma
@@ -189,12 +202,12 @@ Castle-3	jin wei che
 滌火潔西卡	di huo
 滌火潔西卡	di jie
 滌火潔西卡	jie xi ka
-滌火傑西卡
-滌火傑西卡	di huo
-滌火傑西卡	di jie
-滌火傑西卡	jie xi ka
+涤火杰西卡
+涤火杰西卡	di huo
+涤火杰西卡	di jie
+涤火杰西卡	jie xi ka
 #######################
-#黍
+黍	shu	999999
 黍	shu shu
 黍	shu jie
 臨光
@@ -202,7 +215,7 @@ Castle-3	jin wei che
 可頌
 火神
 拜松
-#
+吽	hong 999999
 吽	kou niu
 石棉
 閃擊
@@ -235,6 +248,8 @@ Friston-3	fu li si dun
 Friston-3	zhong zhuang xiao che
 Friston-3	zhong zhuang che
 能天使
+能天使	a neng
+能天使	lei miu le
 #黑
 #W
 W	eew
@@ -250,6 +265,7 @@ W	eew
 假日威龍陳	jia ri wei long
 水陳	shui chen
 遠牙
+遠牙	ya ya
 菲亞梅塔
 菲亞梅塔	fei ya
 鴻雪
@@ -290,11 +306,11 @@ W	eew
 隱現
 冰釀
 潔西卡
-傑西卡
+杰西卡
 流星
 白雪
 紅雲
-#梅
+梅	mei	999999
 安比爾
 酸糖
 松果
@@ -321,12 +337,13 @@ W	eew
 刻俄柏	ke er bai
 刻俄柏	xiao ke
 刻俄柏	fei ke
-#夕
+夕	xi	999999
 夕	xi bao
 異客
 卡涅利安
 卡涅利安	ka jie
 澄閃
+澄閃	fen mao
 澄閃	zhu zhu
 黑鍵
 #林
@@ -348,7 +365,7 @@ W	eew
 阿米婭	tu tu
 阿米婭	shu tu
 阿米婭（術師）	shu tu
-阿米婭(術師）	shu tu
+阿米婭(術師)	shu tu
 阿米婭（近衛）	jian tu
 阿米婭(近衛)	jian tu
 阿米婭（醫療）	nai tu
@@ -361,6 +378,7 @@ W	eew
 驚蟄
 苦艾
 萊恩哈特
+萊恩哈特	lai tu
 蜜蠟
 特米米
 薄綠
@@ -415,6 +433,7 @@ W	eew
 純燼艾雅法拉	chun ai
 純燼艾雅法拉	ai ya fa la
 純燼艾雅法拉	xiao yang
+純燼艾雅法拉	nai yang
 白面鴞
 白面鴞	bai mian
 白面鴞	bai gu gu
@@ -502,7 +521,13 @@ Lancet-2	yi liao xiao che
 梓蘭
 U-Official	zhubou
 U-Official	you li ka
-U-Official	uofficial
+U-Official	uofficial	88888
+U-Official	ujiang	88888
+#为了解决误输入u时需要删一大串拼音
+有	u	33
+又	u	33
+由	u	33
+U-Official	u	2
 PhonoR-0	wu yi xiao che
 PhonoR-0	wu yi che
 PhonoR-0	logos de ma ma
@@ -546,6 +571,7 @@ PhonoR-0	logos ma ma
 弒君者	jun jun
 弒君者	liu ye
 引星棘刺
+引星棘刺	ji chi
 引星棘刺	yin ji
 引星棘刺	xing ji
 引星棘刺	ji ci
@@ -570,14 +596,14 @@ PhonoR-0	logos ma ma
 雙月
 雙月	lana
 錫人
-裁度	cai du
+裁度	cai du#讀音有爭議
 裁度	cai duo
-礫
+礫	li	999999
 礫	shi le
 暗索
 阿消
 伊桑
-#孑
+孑	jie	999999
 孑	jie ge
 維荻
 雲跡
@@ -585,19 +611,139 @@ THRM-EX	thrmex
 THRM-EX	thermalex
 THRM-EX	zi bao che
 THRM-EX	zi bao xiao che
+######################################################
+######################################################
+######################################################
+#####特殊模式幹員
+####預備幹員
+##集成戰略
+預備幹員-近戰	yu bei gan yuan jin zhan	21
+預備幹員-近戰	tou kui ge	21
+預備幹員-狙擊	yu bei gan yuan ju ji	21
+預備幹員-術師	yu bei gan yuan shu shi	21
+預備幹員-術師	zhe yan mao ka te si	21
+遮眼帽卡特斯	zhe yan mao ka te si	16
+預備幹員-術師	xiao shu shi	21
+預備幹員-後勤	yu bei gan yuan hou qin	21
+預備幹員-後勤	yu bei gan yuan yi liao	21
+預備幹員-重裝	yu bei gan yuan zhong zhuang	21
+##卫戍协议
+#(衛戍協議)
+預備幹員-先鋒(衛戍協議)	yu bei gan yuan xian feng
+預備幹員-先鋒(衛戍協議)	tou kui ge
+預備幹員-近衛(衛戍協議)	yu bei gan yuan jin wei
+預備幹員-重裝(衛戍協議)	yu bei gan yuan zhong zhuang
+預備幹員-狙擊(衛戍協議)	yu bei gan yuan ju ji
+預備幹員-術師(衛戍協議)	yu bei gan yuan shu shi
+預備幹員-術師(衛戍協議)	zhe yan mao ka te si
+預備幹員-術師(衛戍協議)	xiao shu shi
+預備幹員-醫療(衛戍協議)	yu bei gan yuan yi liao
+預備幹員-輔助(衛戍協議)	yu bei gan yuan fu zhu
+預備幹員-特種(衛戍協議)	yu bei gan yuan te zhong
+#（衛戍協議）
+預備幹員-先鋒（衛戍協議）	yu bei gan yuan xian feng
+預備幹員-先鋒（衛戍協議）	tou kui ge
+預備幹員-近衛（衛戍協議）	yu bei gan yuan jin wei
+預備幹員-重裝（衛戍協議）	yu bei gan yuan zhong zhuang
+預備幹員-狙擊（衛戍協議）	yu bei gan yuan ju ji
+預備幹員-術師（衛戍協議）	yu bei gan yuan shu shi
+預備幹員-術師（衛戍協議）	zhe yan mao ka te si
+預備幹員-術師（衛戍協議）	xiao shu shi
+預備幹員-醫療（衛戍協議）	yu bei gan yuan yi liao
+預備幹員-輔助（衛戍協議）	yu bei gan yuan fu zhu
+預備幹員-特種（衛戍協議）	yu bei gan yuan te zhong
+#（無消歧義）
+預備幹員-先鋒	yu bei gan yuan xian feng
+預備幹員-先鋒	tou kui ge
+預備幹員-近衛	yu bei gan yuan jin wei
+預備幹員-醫療	yu bei gan yuan yi liao
+預備幹員-輔助	yu bei gan yuan fu zhu
+預備幹員-特種	yu bei gan yuan te zhong
+盟約·輔助幹員	meng yue fu zhu gan yuan
+####精幹（未實裝）
+##集成戰略
+Tulip	tulip
+Tulip	yu jin xiang
+鬱金香	tulip	21
+鬱金香	yu jin xiang	21
+Sharp	sharp
+Sharp	feng ren
+鋒刃	sharp	21
+鋒刃	feng ren	21
+Stormeye	stormeye
+Stormeye	feng bao yan
+風暴眼	stormeye
+風暴眼
+Pith	pith
+Pith	shu sui
+術髓	pith
+術髓
+Touch	touch
+Touch	chu hen
+觸痕	touch
+觸痕
+##卫戍协议
+#(衛戍協議)
+鬱金香(衛戍協議)	tulip
+鬱金香(衛戍協議)	yu jin xiang
+Sharp(衛戍協議)	sharp
+Sharp(衛戍協議)	feng ren
+Mechanist(衛戍協議)	mechanist
+Stormeye(衛戍協議)	stormeye
+Stormeye(衛戍協議)	feng bao yan
+Pith(衛戍協議)	pith
+Pith(衛戍協議)	shu sui
+Touch(衛戍協議)	touch
+Touch(衛戍協議)	chu hen
+Raidian(衛戍協議)	raidian
+Raidian(衛戍協議)	dian hu
+Misery(衛戍協議)	misery
+#（衛戍協議）
+鬱金香（衛戍協議）	tulip
+鬱金香（衛戍協議）	yu jin xiang
+Sharp（衛戍協議）	sharp
+Sharp（衛戍協議）	feng ren
+Mechanist（衛戍協議）	mechanist
+Stormeye（衛戍協議）	stormeye
+Stormeye（衛戍協議）	feng bao yan
+Pith（衛戍協議）	pith
+Pith（衛戍協議）	shu sui
+Touch（衛戍協議）	touch
+Touch（衛戍協議）	chu hen
+Raidian（衛戍協議）	raidian
+Raidian（衛戍協議）	dian hu
+Misery（衛戍協議）	misery
+#（分隔號）
+領主·sharp	ling zhu sharp
+領主·sharp	ling zhu feng ren
+領主·sharp	sharp
+領主·sharp	feng ren
+#（無消歧義）
+Mechanist	mechanist
+Misery	misery
+####暮落
+暮落(集成戰略)	mu luo
+暮落（集成戰略）	mu luo
+######################################################
+######################################################
+######################################################
+###############################2025
 #2025.1
 餘	yao di
 餘	chu zi
 燭煌	gu zhu huang
 燭煌	zhu huang
 尋瀾
+行箸
 #2025.2
 隱德來希
+隱德來希	yin yin
 隱德來希	shi ming zi
 諾威爾
 #2025.3
 死芒
 死芒	ai bu la na
+死芒	ai jie
 死芒	ai xiang jiao
 死芒	xiang jiao jie
 死芒	ling xiu
@@ -627,3 +773,141 @@ Mon3tr	mang si ta
 Mon3tr	mang si te
 阿蘭娜
 騁風
+# 六週年
+#2025.5
+新約能天使
+新約能天使	xin yue
+新約能天使	xin neng
+新約能天使	neng tian shi
+新約能天使	lei miu le
+蕾繆安	lei miu an
+蕾繆安	an jie
+信仰攪拌機
+信仰攪拌機	ye ye
+信仰攪拌機	fei ye
+聆音
+CONFESS-47	xian feng che
+CONFESS-47	xian feng xiao che
+CONFESS-47	confess
+#2025.6
+酒神
+酒神	kui ying
+酒神	di e ni suo si
+酒神	dai e ni xiu si
+蒂比
+Miss.Christine	christine	999999
+Miss.Christine	misschristine	999999
+Miss.Christine	cristine	999999
+Miss.Christine	misscristine	999999
+Miss.Christine	ke li si ting	999999
+Miss.Christine	ke li si ting xiao jie	999999
+Miss.Christine	ke li si ting nv shi	999999
+Miss.Christine	nv shi	999999
+#2025.7 故事集
+司霆驚蟄
+司霆驚蟄	yi ge jing zhe
+司霆驚蟄	si ting
+司霆驚蟄	jing zhe
+錄武官
+#2025.7 界園肉鴿
+電弧
+電弧	raidian
+Raidian	raidian
+#2025.8
+斬業星熊
+斬業星熊	gui jie
+斬業星熊	xing xiong
+斬業星熊	xin xiong
+斬業星熊	xiong er
+遙	yao	999999
+遙	zi ye yao
+遙	momoka
+遙	mmk
+遙	haruka
+遙	yu sheng	10000
+遙	meng meng xiang
+遙	yu sheng meng meng xiang
+吉星	ji xing	100
+松桐	song tong	100
+#2025.9
+三角初華
+三角初華	doloris
+三角初華	san jiao
+三角初華	chu hua
+三角初華	misumi uika
+三角初華	misumi
+三角初華	uika
+三角初華	uiko
+三角初華	wu yi ka
+若葉睦
+若葉睦	mortis
+若葉睦	ruo ye
+若葉睦	mu
+若葉睦	mo ti si
+若葉睦	wakaba mutsumi
+若葉睦	wakaba
+若葉睦	mutsumi
+若葉睦	mu zi mi
+若葉睦	mu tou
+若葉睦	mu tou ren
+若葉睦	xiao huang gua
+若葉睦	muuko
+八幡海鈴
+八幡海鈴	timoris
+八幡海鈴	ba fan
+八幡海鈴	hai ling
+八幡海鈴	yahata umiri
+八幡海鈴	yahata
+八幡海鈴	umiri
+八幡海鈴	umiko
+祐天寺若麥
+祐天寺若麥	amoris
+祐天寺若麥	you tian si
+祐天寺若麥	ruo mai
+祐天寺若麥	yutenji nyamu
+祐天寺若麥	yutenji
+祐天寺若麥	nyamu
+祐天寺若麥	nyamuko
+祐天寺若麥	you tian si miao meng
+祐天寺若麥	miao meng
+祐天寺若麥	you tian si miao mu
+祐天寺若麥	miao mu
+豐川祥子
+豐川祥子	oblivionis
+豐川祥子	feng chuan
+豐川祥子	xiang zi
+豐川祥子	togawa sakiko
+豐川祥子	togawa
+豐川祥子	sakiko
+豐川祥子	saki
+豐川祥子	kefus
+豐川祥子	ke fu xiao xiang
+豐川祥子	xiao xiang
+豐川祥子	obyichuanzimu
+#2025.10
+真言
+真言	mantra
+折椏
+冬時
+#2025.11
+凜禦銀灰
+凜禦銀灰	lin yu
+凜禦銀灰	yin hui
+凜禦銀灰	yi yin
+聖聆初雪
+聖聆初雪	sheng ling
+聖聆初雪	chu xue
+溯光星源
+溯光星源	su guang
+溯光星源	xing yuan
+雪獵
+哈蒂婭
+協律
+#2025.12
+天空盒
+响石
+娜斯提
+#2026.1
+擺渡人
+擷英調香師
+緹緹	titi	999999

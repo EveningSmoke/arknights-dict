@@ -3,7 +3,7 @@
 
 ---
 name: arknights-operators
-version: "0.1"
+version: "26.2"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -910,4 +910,5 @@ Raidian	raidian
 #2026.1
 擺渡人
 擷英調香師
+
 緹緹	titi	999999

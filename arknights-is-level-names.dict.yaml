@@ -3,7 +3,7 @@
 
 ---
 name: arknights-is-level-names
-version: "0.2.1"
+version: "0.2.2"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -337,7 +337,7 @@ use_preset_vocabulary: true
 玩具兵將
 啖之以利
 長驅不復
-#《爾雅·釋言》：「復，返也。」
+#《爾雅·釋言》：復，返也。
 背山面水
 去晦
 落葉歸根
@@ -419,3 +419,4 @@ use_preset_vocabulary: true
 ro4_b_9	rosibjiu
 
 (ISW-DF ???)	rosibjiu
+
